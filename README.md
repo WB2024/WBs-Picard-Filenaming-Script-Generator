@@ -36,6 +36,46 @@ Creating Picard file naming scripts can be complex and time-consuming. This tool
 
 ---
 
+## Screenshots
+
+### Main Menu
+![Main Menu](Images/Menu.jpg)
+*The interactive main menu offers quick access to presets, custom building, help, and more.*
+
+### Preset Selection
+![Preset Templates](Images/Preset%20Templates.jpg)
+*Choose from 6 professionally designed presets, each with example output.*
+
+### View All Presets
+![View Presets](Images/View%20Presets.jpg)
+*Compare all available presets at a glance with their formats and examples.*
+
+### Custom Builder Wizard
+![Custom Builder Step 1](Images/Custom%20Builder%201.jpg)
+*Step 1: Configure your folder structure preferences.*
+
+![Custom Builder Step 2](Images/Custom%20Builder%202.jpg)
+*Step 2: Customize album folder details and metadata.*
+
+![Custom Builder Step 3](Images/Custom%20Builder%203.jpg)
+*Step 3: Set up multi-disc album handling.*
+
+![Custom Builder Step 4](Images/Custom%20Builder%204.jpg)
+*Step 4: Define filename format and track numbering.*
+
+![Custom Builder Step 5](Images/Custom%20Builder%205.jpg)
+*Step 5: Configure special handling for Various Artists and soundtracks.*
+
+### Generated Script Output
+![Generated File](Images/File.jpg)
+*Preview the generated Picard script before saving.*
+
+### Help & Documentation
+![Help Menu](Images/Help%20Menu.jpg)
+*Built-in help provides guidance on Picard scripting concepts.*
+
+---
+
 ## Installation
 
 ### Prerequisites
