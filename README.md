@@ -2,6 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/succinctrecords)
 
 A simple, user-friendly Python CLI tool that generates MusicBrainz Picard file naming scripts through an interactive menu-driven interface.
 
@@ -209,6 +210,14 @@ pip install --upgrade rich questionary
 **Generated script has errors in Picard**
 - The generator only uses valid Picard syntax and real variables
 - If issues occur, please report them on GitHub Issues
+
+## Support the Project
+
+If you find this tool useful, consider supporting its development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/succinctrecords)
+
+Your support helps maintain and improve this project. Thank you! ☕
 
 ## Contributing
 
